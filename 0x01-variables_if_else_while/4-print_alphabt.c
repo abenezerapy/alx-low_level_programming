@@ -15,7 +15,7 @@ continue;
 }
 else
 {
-putchar(y);
+putchar(p);
 }
 }
 putchar('\n');
