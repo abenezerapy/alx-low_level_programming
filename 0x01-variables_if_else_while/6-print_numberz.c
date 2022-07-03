@@ -10,7 +10,6 @@ int p;
 for (p = 48; p <= 57; p++)
 {
 putchar(p);
-int k;
 }
 putchar('\n');
 return (0);
