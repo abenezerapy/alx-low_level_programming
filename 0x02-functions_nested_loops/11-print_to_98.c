@@ -20,5 +20,5 @@ printf("%d, ", count);
 else
 for (count = n; count < 98; ++count)
 printf("%d, ", count);
-printf("98\n");
+printf("98");
 }
